@@ -12,7 +12,7 @@ class TodoController extends Controller
      * @OA\OpenApi(
      *     @OA\Info(
      *         version="1.0",
-     *         title="Todo List APIusing Laravel",
+     *         title="Todo List API using Laravel",
      *         description="Demo Todo List API",
      *     )
      * )
