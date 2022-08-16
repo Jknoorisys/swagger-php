@@ -1,3 +1,4 @@
+# Steps to Integrate swagger-php in Laravel8
 1. composer require "darkaonline/l5-swagger"
 2. php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
 3. Connect Database.
