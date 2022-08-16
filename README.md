@@ -3,4 +3,4 @@
 3. Connect Database.
 4. Run php artisan migrate
 5. php artisan l5-swagger:generate
-6. http://127.0.0.1:8000/api_documentation (available in config/l5-swagger.php)
+6. http://127.0.0.1:8000/api/documentation/v1 (available in config/l5-swagger.php)
